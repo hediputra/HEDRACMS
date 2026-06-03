@@ -1,0 +1,6 @@
+{
+  "name": "HEDRA CMS",
+  "description": "High Efficiency Digital Rural Application - Platform Digital Desa Terintegrasi untuk Pemerintahan Desa Modern di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
